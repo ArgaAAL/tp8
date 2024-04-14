@@ -4,3 +4,5 @@
   "pesan_ditolak": "Anda tidak diperbolehkan masuk ke dalam gedung ini",
   "pesan_diterima": "Anda dipersilahkan untuk masuk ke dalam gedung ini"
 }
+
+//json yang digunakan ada di bin, ini hanya template.
